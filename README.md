@@ -1,0 +1,1 @@
+A script I built to determine what number an episode is and then format into the correct filename to be compatible with plex. There must be correct numbers within the original filename, it will strip out any non numerical characters then lowest to highest will rename them to be in the correct format
